@@ -1,0 +1,7 @@
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\klasifikasi\klasifikasi\bin\Debug\klasifikasi.exe.config
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\klasifikasi\klasifikasi\bin\Debug\klasifikasi.exe
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\klasifikasi\klasifikasi\bin\Debug\klasifikasi.pdb
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\klasifikasi\klasifikasi\obj\Debug\klasifikasi.csprojAssemblyReference.cache
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\klasifikasi\klasifikasi\obj\Debug\klasifikasi.csproj.CoreCompileInputs.cache
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\klasifikasi\klasifikasi\obj\Debug\klasifikasi.exe
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\klasifikasi\klasifikasi\obj\Debug\klasifikasi.pdb

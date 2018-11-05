@@ -1,0 +1,9 @@
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\bin\Debug\Variable yang dinamis.exe
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\bin\Debug\Variable yang dinamis.pdb
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\obj\Debug\Variable yang dinamis.csprojAssemblyReference.cache
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\obj\Debug\Variable_yang_dinamis.Form1.resources
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\obj\Debug\Variable_yang_dinamis.Properties.Resources.resources
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\obj\Debug\Variable yang dinamis.csproj.GenerateResource.cache
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\obj\Debug\Variable yang dinamis.csproj.CoreCompileInputs.cache
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\obj\Debug\Variable yang dinamis.exe
+F:\Computer\Visual Studio\2017 Community\C#\tutorial\Variable yang dinamis\Variable yang dinamis\obj\Debug\Variable yang dinamis.pdb
